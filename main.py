@@ -11,4 +11,4 @@ def exp(x,eps):
 
 x=float(input())
 eps=0.000001
-print("sinus de",x,"este",float(exp(x,eps)))
+print("e la",x,"este",float(exp(x,eps)))
